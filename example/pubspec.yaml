@@ -29,7 +29,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   three_dart:
     git:
-      url: https://github.com/wasabia/three_dart.git
+      url: https://github.com/2TFD/three_dart.git
   three_dart_jsm:
     git:
       url: https://github.com/2TFD/three_dart_jsm.git
